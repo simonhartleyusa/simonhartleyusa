@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simonhartleyusa
-- 👀 I’m interested in mobility, quantum, cybersecurity, mobility
-- 🌱 I’m currently learning more in the software and the hardware stacks that underpinthem.
+- 👀 I’m interested in mobility, quantum, cybersecurity, AI
+- 🌱 I’m currently learning more in the software and the hardware stacks that underpin them.
 - 💞️ I’m looking to collaborate on innovative projects with industry and academia.
 - 📫 How to reach me linkedin.com/in/simonhartleyusa
 
