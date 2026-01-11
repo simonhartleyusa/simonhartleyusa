@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simonhartleyusa.  I am a cybersecurity practice lead at IBM.  I'm also pursuing a DTech doctorate at Purdue part-time.
+- 👋 Hi, I’m @simonhartleyusa.  I am a cybersecurity leader at IBM.  I'm also pursuing a DTech doctorate at Purdue part-time.
 - 👀 I’m interested in mobility, quantum, cybersecurity, AI
 - 🌱 I’m currently learning more around the tools, people, and economics that underpin their use.
 - 💞️ I’m looking to collaborate on innovative projects with industry and academia.
